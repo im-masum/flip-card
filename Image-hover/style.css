@@ -33,6 +33,7 @@ html, body{
   height:600px;
   object-fit: cover;
   position: absolute;
+  border-radius: 20px;
 }
 
  .card:hover{ 
